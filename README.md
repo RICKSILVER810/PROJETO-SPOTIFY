@@ -1,2 +1,2 @@
 # PROJETO-SPOTIFY
- Site-Sppotify 
+ Site-Spotify 
